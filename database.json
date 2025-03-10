@@ -1,0 +1,315 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "category": "beauty",
+      "price": 9.99,
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright"
+        },
+        {
+          "reviewerName": "Hoan",
+          "comment": "Very Good",
+          "rating": 2
+        },
+        {
+          "reviewerName": "Linh",
+          "comment": "Ngon",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Eyeshadow Palette with Mirror",
+      "category": "beauty",
+      "price": 19.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Liam Garcia"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nora Russell"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Elena Baker"
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngon",
+          "rating": 3
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngon",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Powder Canister",
+      "category": "beauty",
+      "price": 14.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Ethan Thompson"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Levi Hicks"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Hazel Gardner"
+        },
+        {
+          "reviewerName": "am",
+          "comment": "ngon",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Red Lipstick",
+      "category": "beauty",
+      "price": 12.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Oscar Powers"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Carter Rivera"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Red Nail Polish",
+      "category": "beauty",
+      "price": 8.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evan Reed"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evelyn Sanchez"
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngoan",
+          "rating": 3
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngon",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Calvin Klein CK One",
+      "category": "fragrances",
+      "price": 49.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown"
+        },
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Madison Collins"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Maya Reed"
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngon",
+          "rating": 3
+        },
+        {
+          "reviewerName": "an",
+          "comment": "ngon",
+          "rating": 3
+        },
+        {
+          "reviewerName": "quan",
+          "comment": "ngon",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Chanel Coco Noir Eau De",
+      "category": "fragrances",
+      "price": 129.99,
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lucas Allen"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Dior J'adore",
+      "category": "fragrances",
+      "price": 89.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Zoe Nicholson"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Addison Wright"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Clara Berry"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Dolce Shine Eau de",
+      "category": "fragrances",
+      "price": 69.99,
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Xavier Wright"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Mila Hernandez"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Gucci Bloom Eau de",
+      "category": "fragrances",
+      "price": 79.99,
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aria Parker"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Natalie Harris"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harris"
+        }
+      ]
+    }
+  ],
+  "carts": []
+}
